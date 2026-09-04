@@ -1,70 +1,47 @@
-# 👋 Olá! Eu sou o Davi Trindade
+# 👋 Olá, eu sou Davi Trindade
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
-💻 Aprendendo programação e desenvolvimento de software
-🚀 Construindo conhecimento através de projetos e atividades acadêmicas
+### 💻 Desenvolvedor em formação | 🎓 Análise e Desenvolvimento de Sistemas @ FIAP
 
----
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, interessado em desenvolvimento de software, tecnologia e resolução de problemas através da programação.
 
-## 🧑‍💻 sobre mim
-
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP e estou construindo minha base na área de tecnologia.
-
-Gosto de aprender na prática, entender como as coisas funcionam e transformar o conteúdo aprendido em projetos. Este GitHub é um espaço onde compartilho parte dos meus estudos, atividades e projetos desenvolvidos ao longo da faculdade.
-
-Ainda estou no começo da minha jornada na programação, mas busco evoluir constantemente e aprender um pouco mais a cada projeto.
+🚀 Estou constantemente buscando transformar o conhecimento adquirido nos estudos em **projetos práticos**, explorando novas tecnologias e evoluindo minhas habilidades como desenvolvedor.
 
 ---
 
-## 🛠️ tecnologias que estou estudando
+## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
 </p>
 
 ---
 
-## 📚 meus estudos
+## 📂 Projetos
 
-Durante a graduação, venho tendo contato com diferentes áreas da tecnologia e colocando os conhecimentos em prática por meio de exercícios, trabalhos e projetos.
+Neste perfil você encontrará **projetos pessoais, projetos acadêmicos selecionados e experimentos práticos**, desenvolvidos ao longo da minha formação.
 
-Atualmente, meus estudos estão voltados principalmente para:
-
-* lógica de programação e desenvolvimento de software;
-* desenvolvimento com Java;
-* banco de dados e SQL;
-* desenvolvimento web;
-* JavaScript e React;
-* versionamento com Git e GitHub.
+Meu objetivo é utilizar cada projeto como uma oportunidade para aprender, resolver problemas e evoluir como desenvolvedor.
 
 ---
 
-## 🎯 meus objetivos
+## 🎯 Objetivo
 
-Meu objetivo é fortalecer minha base em programação, desenvolver cada vez mais minha lógica e ganhar experiência através de projetos.
-
-Quero aproveitar a faculdade para conhecer diferentes áreas da tecnologia, experimentar novas ferramentas e descobrir quais delas mais combinam com o caminho que quero seguir profissionalmente.
+Construir uma carreira na área de tecnologia, desenvolvendo soluções, adquirindo experiência prática e evoluindo continuamente através de **projetos, desafios e aprendizado**.
 
 ---
 
-## 📂 projetos
+## 📫 Contato
 
-Aqui você encontrará projetos, exercícios e trabalhos desenvolvidos durante minha graduação na FIAP.
-
-Cada projeto representa uma parte do meu aprendizado e da minha evolução na área de tecnologia.
-
----
-
-## 📫 vamos conversar?
-
-💼 [LinkedIn](https://www.linkedin.com/in/davi-trindade-b64a48378/)
-
-⭐ Seja bem-vindo ao meu GitHub!
+<p align="left">
+  <a href="(https://www.linkedin.com/in/davi-trindade-b64a48378/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
